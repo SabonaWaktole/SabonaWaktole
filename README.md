@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SabonaWaktole
 - 👀 I’m interested in .AI and Machine learning
-- 🌱 I’m currently learning .freshman at university. I gonna join computer science and enginereeng
+- 🌱 I’m currently learning  computer science and enginereeng
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .here is my email sebonawaktole@gmail.com here is my telegram user name The_West_G
 

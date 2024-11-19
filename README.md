@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SabonaWaktole
-- 👀 I’m interested in .Data analysis, Data Engineering, AI and Machine learning
-- 🌱 I’m currently learning  computer science and enginereeng
+- 👀 I’m interested in . Data analysis, Data Science AI and Machine learning
+- 🌱 I’m currently learning  computer science and engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me .here is my email sebonawaktole@gmail.com here is my telegram user name The_West_G
+- 📫 How to reach me .here is my email sebonawaktole@gmail.com here is my telegram user name @Sabona_Waktole
 
 <!---
 SabonaWaktole/SabonaWaktole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

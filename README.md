@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SabonaWaktole
-- 👀 I’m interested in . Data analysis, Data Science AI and Machine learning
+- 👋 Hi, I’m @ Sabona Waktole
+- 👀 I’m interested in. Data analysis, Data Science AI, and Machine learning
 - 🌱 I’m currently learning  computer science and engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .here is my email sebonawaktole@gmail.com here is my telegram user name @Sabona_Waktole

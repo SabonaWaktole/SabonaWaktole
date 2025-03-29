@@ -75,7 +75,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?username=SabonaWaktole)
 
 ---
 

@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1zU-UZHHizMHu_5Q1SfzxuXZsMLKpd9RR/view?usp=sharing](https://drive.google.com/file/d/1zU-UZHHizMHu_5Q1SfzxuXZsMLKpd9RR/view?usp=sharing)
 
-- ⚡ Fun fact **I love to debug even it makes me cry**
+- ⚡ Fun fact **I love to debug even if it makes me cry**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

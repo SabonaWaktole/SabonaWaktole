@@ -65,7 +65,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SabonaWaktole&theme=dark&hide_border=true&include_all_commits=false&count_private=false" /><br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabonaWaktole&theme=dark&layout=compact&hide_border=true" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Sabona&theme=dark&hide_border=true" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=SabonaWaktole&theme=dark&hide_border=true" />
 </p>
 
 ---

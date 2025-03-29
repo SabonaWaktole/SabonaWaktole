@@ -1,5 +1,6 @@
+```md
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76C6C&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Sabona+Waktole;Competitive+Programmer+%26+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76C6C&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I+am+Sabona+Waktole;Passionate+Backend+Developer+%26+Cloud+Explorer" />
 </h1>
 
 ## 💫 About Me:
@@ -32,8 +33,34 @@
 ---
 
 ## 💻 Tech Stack:
+### 🖥️ Backend:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,css,html,java,js,py,ts,aws,bootstrap,django,express,flask,javafx,nodejs,spring,postgres,mysql,mongodb,matplotlib,numpy,pandas,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,python,nodejs,spring,django,flask,express" />
+</p>
+
+### 🎨 Frontend:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</p>
+
+### ☁️ Cloud & DevOps:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+### 🗄️ Databases:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+### 📊 Data Science & Tools:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=matplotlib,numpy,pandas" />
+</p>
+
+### 🛠️ Other Tools:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 ---
@@ -57,3 +84,4 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=SabonaWaktole&icon=0&color=0" alt="Profile View Counter" />
 </p>
+```

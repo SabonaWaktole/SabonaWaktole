@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76C6C&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Sabona+Waktole;Competitive+Programmer+%26+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76C6C&center=true&vCenter=true&random=false&width=500&lines=Hello%2C+I'm+Sabona+Waktole;Backend+Developer+%26+Competitive+Programmer" />
 </h1>
 
 ## 💫 About Me:
@@ -9,7 +9,6 @@
 - 💬 Ask me about **Django, Flask**
 - 📫 Reach me at **sebonawaktole@gmail.com**
 - 📄 [Know about my experiences](https://drive.google.com/file/d/1zU-UZHHizMHu_5Q1SfzxuXZsMLKpd9RR/view?usp=sharing)
-- ⚡ Fun fact: **I love to debug even if it makes me cry** 😂
 
 ---
 
@@ -33,7 +32,31 @@
 
 ## 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,css,html,java,js,py,ts,aws,bootstrap,django,express,flask,javafx,nodejs,spring,postgres,mysql,mongodb,matplotlib,numpy,pandas,git,github" />
+  
+### 🚀 Programming Languages  
+<img src="https://skillicons.dev/icons?i=java,py,cpp,js,ts" />  
+
+### 🌐 Web Development  
+<img src="https://skillicons.dev/icons?i=html,css,react,flask,nodejs,spring,django,flask,bootstrap,javafx" />  
+
+### 🗄️ Databases  
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite"/>  
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+
+## DevOps:
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+## ML and Data Science:
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23blue)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458)
+
+
+
+### 🔧 Tools & Technologies  
+<img src="https://skillicons.dev/icons?i=git,github,postman" />  
+
+---
 </p>
 
 ---

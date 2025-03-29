@@ -61,11 +61,11 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SabonaWaktole&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabonaWaktole&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabonaWaktole&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SabonaWaktole&theme=dark&hide_border=true&include_all_commits=false&count_private=false" /><br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabonaWaktole&theme=dark&layout=compact&hide_border=true" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Sabona&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -75,8 +75,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
+![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?username=SabonaWaktole)
+
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SabonaWaktole&icon=0&color=0" alt="Profile View Counter" />
-</p>

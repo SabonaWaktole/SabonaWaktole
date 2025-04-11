@@ -37,13 +37,13 @@
 <img src="https://skillicons.dev/icons?i=java,py,cpp,js,ts" />  
 
 ### 🌐 Web Development  
-<img src="https://skillicons.dev/icons?i=html,css,react,flask,nodejs,spring,django,flask,bootstrap,javafx" />  
+<img src="https://skillicons.dev/icons?i=html,css,react,flask,nodejs,spring,django,bootstrap,javafx" />  
 
 ### 🗄️ Databases  
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite"/>  
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 
-## DevOps:
+## Cloud Computing:
 <img src="https://skillicons.dev/icons?i=aws"/>
 
 ## ML and Data Science:

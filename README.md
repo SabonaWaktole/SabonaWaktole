@@ -5,7 +5,6 @@
 ## 💫 About Me:
 - 🔭 I’m currently working on **Telegram bot development**
 - 🌱 I’m currently learning **Spring Boot, ML, AWS Cloud Computing**
-- 📝 I regularly write articles on [Medium](https://medium.com/@sebonawaktole)
 - 💬 Ask me about **Django, Flask**
 - 📫 Reach me at **sebonawaktole@gmail.com**
 - 📄 [Know about my experiences](https://drive.google.com/file/d/1zU-UZHHizMHu_5Q1SfzxuXZsMLKpd9RR/view?usp=sharing)

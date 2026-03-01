@@ -3,11 +3,9 @@
 </h1>
 
 ## 💫 About Me:
-- 🔭 I’m currently working on **Mobile App development**
-- 🌱 I’m currently learning **Spring Boot, ML, AWS Cloud Computing**
-- 💬 Ask me about **Flutter, Flask**
+- 🔭 I’m currently working as **Full-stack developer and Mobile App development**
+
 - 📫 Reach me at **sebonawaktole@gmail.com**
-- 📄 [Know about my experiences](https://drive.google.com/file/d/1zU-UZHHizMHu_5Q1SfzxuXZsMLKpd9RR/view?usp=sharing)
 
 ---
 

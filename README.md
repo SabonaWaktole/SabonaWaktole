@@ -3,7 +3,7 @@
 </h1>
 
 ## 💫 About Me:
-- 🔭 I’m currently working as **Full-stack developer and Mobile App development**
+- 🔭 I’m currently working as **Full-stack and Mobile App developer**
 
 - 📫 Reach me at **sebonawaktole@gmail.com**
 

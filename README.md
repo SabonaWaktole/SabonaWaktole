@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76C6C&center=true&vCenter=true&random=false&width=500&lines=Hello%2C+I'm+Sabona+Waktole;Backend+Developer+%26+Competitive+Programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76C6C&center=true&vCenter=true&random=false&width=500&lines=Hello%2C+I'm+Sabona+Waktole;Software+Engineer+%26+Solution+Architect" />
 </h1>
 
 ## 💫 About Me:
 - 🔭 I’m currently working as **Full-stack and Mobile App developer**
 
-- 📫 Reach me at **sebonawaktole@gmail.com**
+- 📫 Reach me at **sabonawaktoletafese@gmail.com**
 
 ---
 

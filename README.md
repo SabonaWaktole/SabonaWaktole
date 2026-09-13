@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76C6C&center=true&vCenter=true&random=false&width=500&lines=Hello%2C+I'm+Sabona+Waktole;Full-Stack+%26+Mobile+App+Developer;Top+Rated+Freelancer+on+Upwork" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76C6C&center=true&vCenter=true&random=false&width=500&lines=Hello%2C+I'm+Sabona+Waktole;Software+Engineer+%26+Competitive+Programmer" />
 </h1>
 
 <p align="center">
@@ -52,21 +52,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/SabonaWaktole/stock-pulse-predictor" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SabonaWaktole&repo=stock-pulse-predictor&theme=radical" />
-  </a>
-  <a href="https://github.com/SabonaWaktole/GenAIChatBot" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SabonaWaktole&repo=GenAIChatBot&theme=radical" />
-  </a>
-  <a href="https://github.com/SabonaWaktole/blog-post-saas-frontend" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SabonaWaktole&repo=blog-post-saas-frontend&theme=radical" />
-  </a>
-</p>
-
----
 
 ## 💻 Tech Stack
 
@@ -100,16 +85,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SabonaWaktole&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SabonaWaktole&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabonaWaktole&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SabonaWaktole&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
